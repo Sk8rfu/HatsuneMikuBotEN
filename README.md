@@ -101,6 +101,7 @@ Beautiful embeds
 
 Rotating presence statuses
 
+---
 📜 Commands
 🎀 Anime Reactions
 
@@ -119,7 +120,8 @@ Rotating presence statuses
  /pat  — Head‑pat someone
 
  /slap  — Slap a user
-
+ 
+---
 💙 Hatsune Miku
 
  /miku  — Shows a Miku image
@@ -129,13 +131,15 @@ Rotating presence statuses
  /miku-gif  — Random Miku GIF
 
  /miku-cute  — Cute Miku image
-
+ 
+---
 👤 User Commands
 
  /avatar  — Shows a user’s avatar
 
  /ship  — Compatibility between two users
-
+ 
+---
 🐾 Extra Anime Commands
 
  /catgirl  — Random catgirl
@@ -151,11 +155,13 @@ Rotating presence statuses
  /animequote  — Random anime quote
 
  /meme  — Random meme
-
+ 
+---
 ❓ Help
 
  /help  — Shows the full command menu
-
+ 
+---
 🌐 API Sources
 
 This bot uses the following public APIs:
@@ -175,3 +181,4 @@ All APIs are public and require no API key.
 HatsuneMikuBot was created with love, passion, and dedication to the anime community.
 If you encounter any issues, bugs, or have suggestions for improvements, please open an issue in the repository and report it.
 Your feedback helps make the bot better for everyone. 💙
+---
