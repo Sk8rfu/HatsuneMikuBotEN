@@ -4,7 +4,9 @@
 
 # HatsuneMikuBotEN
 🌸 HatsuneMikuBot - Anime Discord Bot (English Version)
+
 ---
+
 HatsuneMikuBot is a Bulgarian anime‑themed Discord bot featuring cute reactions, anime images, Hatsune Miku content, and fun interaction commands.
 Built with discord.js v14, using multiple public APIs, and fully open‑source.
 ---
@@ -29,7 +31,7 @@ This will automatically install everything listed in package.json.
 
 
 🔧 1. Create Your .env File
-
+---
 Inside the project, you will find:
 
 .env.example
@@ -52,7 +54,7 @@ Each user must create their own .env.
 
 
 📝 2. Edit deploy-commands.js
-
+---
 Inside this file, you must insert your Application ID so the bot knows where to register slash commands.
 
 Find this line:
@@ -63,7 +65,7 @@ Replace "YOUR_ID_Application" with your actual Application ID.
 
 
 📡 3. Register Slash Commands
-
+---
 After editing deploy-commands.js, run:
 
 node deploy-commands.js
@@ -74,14 +76,14 @@ If successful, you will see a confirmation message in the console.
 
 
 🚀 4. Start the Bot
-
+---
 Once everything is configured, start the bot with:
 
 node index.js
 
 If your .env is correct, the bot will log in and go online.
 
-
+---
 ✨ Features
 Anime images & GIFs
 
