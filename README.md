@@ -2,6 +2,14 @@
   <img src="https://github.com/Sk8rfu/HatsuneMikuBotEN/blob/assets/miku_is_the_best.jpg?raw=true?raw=true">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-100%25-yellow">
+  <img src="https://img.shields.io/badge/Node.js-18+-green">
+  <img src="https://img.shields.io/badge/discord.js-v14-blue">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
+</p>
+
 # HatsuneMikuBotEN
 🌸 HatsuneMikuBot - Anime Discord Bot (English Version)
 
